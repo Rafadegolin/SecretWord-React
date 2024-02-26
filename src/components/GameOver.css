@@ -1,0 +1,11 @@
+.gameover {
+    display: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30vh;
+}
+
+h2 span {
+    color: #ffe95c;
+    font-size: 1.5em;
+  }

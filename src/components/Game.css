@@ -66,3 +66,15 @@
     text-align: center;
     margin-right: 1em;
 }
+
+@media (max-width: 1130px) {
+    .game {
+        width: 90%; 
+    }
+
+    .letter {
+        font-size: 40px;
+        line-height: 2.5;
+    }
+}
+
